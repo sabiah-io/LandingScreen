@@ -10,7 +10,7 @@ Or you can just download the project zip file if you prefer that approach.
 
 
 Here is a sample of what the animation looks like
-![](name-of-giphy.gif)
+![](/assets/sample.gif)
 
 
 
