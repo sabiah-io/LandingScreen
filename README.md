@@ -9,9 +9,11 @@ git clone https://github.com/jellyCodee/LandingScreen.git
 Or you can just download the project zip file if you prefer that approach.
 
 
-Here is a sample of what the animation looks like
+Here is a sample of what the animation looks like. Nothing fancy because it was lazy work 🙂
+
+
 ![](/assets/sample.gif)
 
 
 
-MAde with ❤ by JellyCodee
+Made with ❤ by JellyCodee
